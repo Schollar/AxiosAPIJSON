@@ -1,3 +1,12 @@
-@import 'global';
-@import 'header';
-@import 'footer';
+@import "global";
+@import "header";
+@import "footer";
+
+img {
+    width: 500px;
+}
+
+#cat_container {
+    display: grid;
+    place-items: center;
+}

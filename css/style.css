@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+img, iframe {
+  max-width: 100%;
+}
+
+#page_header {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+#page_footer {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+img {
+  width: 500px;
+}
+
+#cat_container {
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+/*# sourceMappingURL=style.css.map */
